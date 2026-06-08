@@ -1,6 +1,6 @@
 ### Hey, I'm Joshua
 
-I lead application development at a large non-tech company, where I own enterprise apps, automation platforms, and data pipelines. Backend, frontend, data, whatever the system needs. On the side I'm building The rest of the time I'm building [Lumex Solutions](https://lumex-solutions.com) and a TypeScript framework called Flare (see below).
+I lead application development at a large non-tech company, where I own enterprise apps, automation platforms, and data pipelines. Backend, frontend, data, whatever the system needs. The rest of the time I'm building [Lumex Solutions](https://lumex-solutions.com) and a TypeScript framework called Flare (see below).
 
 Self-taught, still learning, always.
 
